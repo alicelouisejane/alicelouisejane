@@ -9,12 +9,16 @@ My current focus:
 - Research uses of Continuous Glucose Monitoring data 
 - Glucose trends around exercise in type 1 diabetes 
 
-I also have type 1 diabetes and I am passionate about raising awareness of what it is like to live with. 
+I also have type 1 diabetes and I am passionate about raising awareness of what it is like to live with.
+
+### Previous work
+Consultant data scientist supporting the epidemiological analysis of data related to COVID-19 in the African region for the World Health Organisation. 
 
 ## Where to find me :mag_right: 
 - :speech_balloon: Twitter [@alicelouisejane](https://twitter.com/alicelouisejane)
 - :e-mail: Email aljc201@exeter.ac.uk
 - :mortar_board: ResearchGate [Alice Carr](https://www.researchgate.net/profile/Alice-Carr)
+- :briefcase: LinkedIn [Alice Carr](https://www.linkedin.com/in/alice-carr-029b2081/)
 
 
 
