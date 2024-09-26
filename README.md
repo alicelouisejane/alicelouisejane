@@ -4,8 +4,8 @@
 
 I believe the future and key to progressing scientifically is an interdisciplinary approach to science. Current postdoctoral fellow at University of Alberta, Canada. 
 
-My current focus:
-- Analysis and interpretation of clinical data
+My current work includes:
+- Analysis and interpretation of clinical data in type 1 diabetes
 - Research uses of Continuous Glucose Monitoring data 
 - Glucose trends around exercise in type 1 diabetes 
 
